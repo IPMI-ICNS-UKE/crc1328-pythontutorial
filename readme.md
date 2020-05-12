@@ -34,7 +34,7 @@ Clone the GitHub repository to a location of your preference on your harddrive.
 
 - Paste the following line in the Terminal/command prompt and press enter
 
-        git clone https://github.com/IPMI-ICNS-UKE/PythonTutorial
+        git clone https://github.com/IPMI-ICNS-UKE/crc1328-pythontutorial.git
 
 ## Install miniconda (Python package manager)
 
