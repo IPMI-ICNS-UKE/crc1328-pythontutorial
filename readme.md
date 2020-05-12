@@ -77,6 +77,8 @@ Navigate to the downloaded course material:
 - Mac:
   - Use the Finder to navigate to the folder of the course material.
   - Right-click on the folder and select "Services" --> "New Terminal at Folder"
+  
+  You should be **inside** of the cloned git-repository!
 
 Enter the following commands one by one (paste each line individually and press enter after each line).
 
